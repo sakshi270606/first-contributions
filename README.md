@@ -182,7 +182,7 @@ git commit -m "Add your-name to Contributors list"
 
 replacing `your-name` with your name.
 
-## Push changes to GitHub
+## push changes to GitHub
 
 Push your changes using the command `git push`:
 
